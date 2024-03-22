@@ -15,4 +15,7 @@ if(a>b){
     } else {
         console.log("C is Max")
     }
+    if (a=b) {
+        console.log("A and B same")
+    }
 }
